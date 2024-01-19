@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "receiver", "comm-tcp-ip\receiver.csproj", "{47002FBC-DB01-4DDB-8237-AFC901DD3216}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "receiver", "receiver\receiver.csproj", "{47002FBC-DB01-4DDB-8237-AFC901DD3216}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sender", "sender\sender.csproj", "{9DE8040D-4CC9-43AF-AED2-97913B32AE01}"
 EndProject
